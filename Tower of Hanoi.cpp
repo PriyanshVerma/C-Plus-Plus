@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-
+///the tower of Hanoi
 struct tower
 {
 	int values[10];
